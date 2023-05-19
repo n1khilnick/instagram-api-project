@@ -1,4 +1,4 @@
-# INSTAGRAM API Project
+# Instagran API Project
 
 ## Built With
 * `Java 17`
